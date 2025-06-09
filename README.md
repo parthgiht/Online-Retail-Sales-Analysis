@@ -6,31 +6,31 @@ through data cleaning, visualization, and feature engineering.
 
 ## 📂 **Features** 
 
-✅ **Data Cleaning & Preprocessing** – Handling missing values, filtering valid transactions 🧹
+✅ **Data Cleaning & Preprocessing** – Handling missing values, filtering valid transactions.
 
-✅ **Exploratory Data Analysis (EDA)** – Sales trends, top-performing products, customer insights 📊
+✅ **Exploratory Data Analysis (EDA)** – Sales trends, top-performing products, customer insights.
 
-✅ **Feature Engineering** – Creating new features like total sales, day, month, and year columns 🛠️
+✅ **Feature Engineering** – Creating new features like total sales, day, month, and year columns.
 
-✅ **RFM Analysis** – Customer segmentation based on Recency, Frequency, and Monetary value 🎯
+✅ **RFM Analysis** – Customer segmentation based on Recency, Frequency, and Monetary value.
 
-✅ **Customer Churn Analysis** – Identifying inactive customers and potential retention strategies ⚠️
+✅ **Customer Churn Analysis** – Identifying inactive customers and potential retention strategies.
 
-✅ **Data Visualization** – Monthly/Yearly sales trends, top-selling products, and geographic sales distribution 📈🌍
+✅ **Data Visualization** – Monthly/Yearly sales trends, top-selling products, and geographic sales distribution.
 
 
 
 ## 📌 **Key Findings**
 
-🔹 **Sales Peak** – Highest sales observed in November, likely due to holiday season 🎄
+🔹 **Sales Peak** – Highest sales observed in November, likely due to holiday season.
 
-🔹 **Top Buyer** – United Kingdom dominates sales with an 84.6% contribution 🇬🇧
+🔹 **Top Buyer** – United Kingdom dominates sales with an 84.6% contribution.
 
-🔹 **Best-Selling Product** – "DOT" product category contributes the most to total sales 🏆
+🔹 **Best-Selling Product** – "DOT" product category contributes the most to total sales.
 
-🔹 **Customer Segmentation** – High-value customers identified for targeted marketing 🏅
+🔹 **Customer Segmentation** – High-value customers identified for targeted marketing.
 
-🔹 **Churn Detection** – Customers inactive for 90+ days flagged for retention efforts 🚨
+🔹 **Churn Detection** – Customers inactive for 90+ days flagged for retention efforts.
 
 
 ## 🚀 **Libraries Used**
