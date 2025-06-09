@@ -22,22 +22,22 @@ through data cleaning, visualization, and feature engineering.
 
 ## 📌 **Key Findings**
 
-🔹 **Sales Peak** – Highest sales observed in November, likely due to holiday season.
+✅ **Sales Peak** – Highest sales observed in November, likely due to holiday season.
 
-🔹 **Top Buyer** – United Kingdom dominates sales with an 84.6% contribution.
+✅ **Top Buyer** – United Kingdom dominates sales with an 84.6% contribution.
 
-🔹 **Best-Selling Product** – "DOT" product category contributes the most to total sales.
+✅ **Best-Selling Product** – "DOT" product category contributes the most to total sales.
 
-🔹 **Customer Segmentation** – High-value customers identified for targeted marketing.
+✅ **Customer Segmentation** – High-value customers identified for targeted marketing.
 
-🔹 **Churn Detection** – Customers inactive for 90+ days flagged for retention efforts.
+✅ **Churn Detection** – Customers inactive for 90+ days flagged for retention efforts.
 
 
 ## 🚀 **Libraries Used**
-📌 **Pandas** – Data manipulation
+✅ **Pandas** – Data manipulation
 
-📌 **Matplotlib** – Data visualization
+✅ **Matplotlib** – Data visualization
 
-📌 **Python** – Core scripting
+✅ **Python** – Core scripting
 
-📢 Dive into the project and explore the world of online retail data!
+ Dive into the project and explore the world of online retail data!
